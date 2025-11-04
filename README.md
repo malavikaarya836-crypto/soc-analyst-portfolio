@@ -115,7 +115,7 @@ LinkedIn | (https://www.linkedin.com/in/malavika-sreekala-936512273?lipi=urn%3Al
 For professional opportunities and collaboration:
 
 **Email:** malavikaarya836@gmail.com  
-**LinkedIn:** https://linkedin.com/in/malavika-sreekala
+**LinkedIn:** https://linkedin.com/in/malavika-sreekala-936512273
 **Location:** United Kingdom  
 
 ---

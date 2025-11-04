@@ -1,4 +1,4 @@
-# 🛡️ SOC Analyst Portfolio — Malavika Aswin
+# 🛡️ SOC Analyst Portfolio — Malavika Sreekala
 
 Welcome to my Security Operations (SOC) Analyst portfolio.  
 This repository documents my learning journey, hands-on investigations, threat analysis work, and incident response exercises.  
@@ -46,30 +46,6 @@ Each project below contains:
 - Screenshots / Evidence
 - MITRE ATT&CK mapping (where applicable)
 
-### ✅ 1. Phishing Investigation & Email Header Analysis
-**Folder:** `/projects/phishing-analysis`  
-**Skills:** Header parsing, IOC lookup, threat intel, reporting  
-**Status:** *To be added*
-
-### ✅ 2. Brute-Force Attack Detection via SIEM
-**Folder:** `/projects/bruteforce-detection`  
-**Skills:** Log correlation, SIEM filtering, failed login analysis  
-**Status:** *To be added*
-
-### ✅ 3. Malware Traffic Analysis (PCAP)
-**Folder:** `/projects/malware-traffic-analysis`  
-**Skills:** Wireshark, network indicators, C2 traffic behavior  
-**Status:** *To be added*
-
-### ✅ 4. Windows Host Compromise Investigation
-**Folder:** `/projects/windows-investigation`  
-**Skills:** Event ID analysis, timeline reconstruction, Sysmon  
-**Status:** *To be added*
-
-### ✅ 5. Splunk Alert Triage Simulation
-**Folder:** `/projects/splunk-soc-lab`  
-**Skills:** SOC workflow, false positive evaluation, dashboard creation  
-**Status:** *To be added*
 
 ---
 
@@ -90,7 +66,7 @@ CompTIA Security+ | Preparing | *(Study notes in `/notes/` folder)*
 |---------|------|
 TryHackMe | (https://tryhackme.com/p/malavika.ss) 
 GitHub | (https://github.com/malavikaarya836-crypto)  
-LinkedIn | (https://www.linkedin.com/in/malavika-sreekala-936512273?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bis8QPimnRIKfO2kzC1pgqw%3D%3D)`  
+LinkedIn | (https://www.linkedin.com/in/malavika-sreekala-936512273
 
 ---
 
@@ -121,4 +97,4 @@ For professional opportunities and collaboration:
 ---
 
 > Thank you for visiting my SOC Analyst portfolio.  
-> This repository will continue to evolve as I progress through more blue-team labs and real-world simulations.
+> This repository will continue to evolve as I progress through more tryhackme labs and real-world simulations.

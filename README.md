@@ -80,7 +80,7 @@ Each project below contains:
 TryHackMe — **SOC Level 1 Path** | In Progress | *(Certificate to be uploaded)*
 TryHackMe — Blue Team, Malware, SIEM Labs | Ongoing | *(Activity link below)*
 CompTIA Security+ | Preparing | *(Study notes in `/notes/` folder)*
-Microsoft SC-900 | Planned | — 
+
 
 ---
 
@@ -88,8 +88,7 @@ Microsoft SC-900 | Planned | —
 
 | Platform | Link |
 |---------|------|
-TryHackMe | `https://tryhackme.com/p/YourUsername`  
-HackTheBox | `https://app.hackthebox.com/profile/YourUsername`  
+TryHackMe | (https://tryhackme.com/p/malavika.ss) 
 GitHub | `https://github.com/YourUsername`  
 LinkedIn | `https://linkedin.com/in/YourLinkedIn`  
 

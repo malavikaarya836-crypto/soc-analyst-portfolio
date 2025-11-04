@@ -89,8 +89,8 @@ CompTIA Security+ | Preparing | *(Study notes in `/notes/` folder)*
 | Platform | Link |
 |---------|------|
 TryHackMe | (https://tryhackme.com/p/malavika.ss) 
-GitHub | `https://github.com/YourUsername`  
-LinkedIn | `https://linkedin.com/in/YourLinkedIn`  
+GitHub | (https://github.com/malavikaarya836-crypto)  
+LinkedIn | (https://www.linkedin.com/in/malavika-sreekala-936512273?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bis8QPimnRIKfO2kzC1pgqw%3D%3D)`  
 
 ---
 

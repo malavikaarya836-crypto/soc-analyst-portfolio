@@ -53,9 +53,10 @@ Each project below contains:
 
 | Program / Platform | Status | Evidence |
 |-------------------|--------|---------|
+Certified Penetration Tester (CPT) |  | *<img width="1103" height="778" alt="CPT Certificate" src="https://github.com/user-attachments/assets/998e67d5-9415-400d-bba5-71e10c39f53d" />*
 TryHackMe — **SOC Level 1 Path** | In Progress | *(Certificate to be uploaded)*
 TryHackMe — Blue Team, Malware, SIEM Labs | Ongoing | *(Activity link below)*
-CompTIA Security+ | Preparing | *(Study notes in `/notes/` folder)*
+CompTIA Security+ | Preparing | 
 
 
 ---
